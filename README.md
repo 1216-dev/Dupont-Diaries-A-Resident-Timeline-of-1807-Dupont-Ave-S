@@ -11,6 +11,13 @@ The project demonstrates how AI (OCR + LLM) can power the reconstruction of a pr
 [https://www.zillow.com/homedetails/1807-Dupont-Ave-S-Minneapolis-MN-55403/1951320_zpid/](https://www.zillow.com/homedetails/1807-Dupont-Ave-S-Minneapolis-MN-55403/1951320_zpid/)
 
 ---
+## 🖼️ Preview
+
+Here’s a quick preview of the OCR + data‑extraction pipeline in action:
+
+![Pipeline Workflow](assets/pipeline_flowchart.png)
+
+> *Fig. 1:* Flowchart showing the end‑to‑end process, from image download through OCR, AI extraction, and timeline plotting.
 
 ## 📁 Repository Structure
 
