@@ -15,7 +15,7 @@ The project demonstrates how AI (OCR + LLM) can power the reconstruction of a pr
 
 Here’s a quick preview of the OCR + data‑extraction pipeline in action:
 
-![Pipeline Workflow]([assets/pipeline_flowchart.png](https://github.com/1216-dev/Dupont-Diaries-A-Resident-Timeline-of-1807-Dupont-Ave-S/blob/main/Flowfwork.png))
+![Pipeline Workflow](https://github.com/1216-dev/Dupont-Diaries-A-Resident-Timeline-of-1807-Dupont-Ave-S/blob/main/Flowfwork.png?raw=true)
 
 > *Fig. 1:* Flowchart showing the end‑to‑end process, from image download through OCR, AI extraction, and timeline plotting.
 
