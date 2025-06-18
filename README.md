@@ -59,6 +59,13 @@ To compile a structured, year-wise timeline (1902–1950) of residents for the M
    - Applied `EasyOCR` to extract text and bounding boxes.
    - Saved output images with bounding boxes annotated.
    - Stored raw text for each page.
+## 🖼️ OCR Output Example
+
+Below is a sample OCR output with bounding boxes:
+
+![OCR Output](https://github.com/1216-dev/Dupont-Diaries-A-Resident-Timeline-of-1807-Dupont-Ave-S/blob/main/page_001_output.jpg?raw=true)
+
+> *Fig. 2:* Annotated image showing detected text regions from the 1904 city directory.
 
 3. **Text Correction (Gemini)**
    - Cleaned raw OCR output using Gemini 1.5.
